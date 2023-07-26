@@ -32,6 +32,8 @@ const item3 = new Item({
     name: "Commute to work",
 });
 
+console.log("edit master branch");
+
 const defaultItems = [item1,item2,item3];
 
 const listSchema = {
