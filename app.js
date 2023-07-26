@@ -32,6 +32,10 @@ const item3 = new Item({
     name: "Commute to work",
 });
 
+const item4 = new Item({
+    name: "Another item",
+});
+
 const defaultItems = [item1,item2,item3];
 
 const listSchema = {
